@@ -9,7 +9,7 @@ export function Table() {
                         <thead>
                             <tr className='border-b border-white/10'>
                                 <th className='py-3 px-4 text-sm font-semibold text-left'>
-                                    <input type="checkbox" className='size-4 bg-black/20 rounded border-white/10 checked:bg-orange-400' />
+                                    <input type="checkbox" className="size-4 bg-black/20 border-white/10 rounded focus-visible:outline-offset-0 focus-visible:outline-none focus:text-orange-400 focus:ring-0 focus:ring-offset-0" />
                                 </th>
                                 <th className='py-3 px-4 text-sm font-semibold text-left'>Código</th>
                                 <th className='py-3 px-4 text-sm font-semibold text-left'>Participante</th>
@@ -23,7 +23,7 @@ export function Table() {
                                 return (
                                     <tr key={i} className='border-b border-white/10 hover:bg-white/5'>
                                         <td className='py-3 px-4 text-sm text-zinc-300'>
-                                            <input type="checkbox" className='size-4 bg-black/20 rounded border-white/10 ' />
+                                            <input type="checkbox" className="size-4 bg-black/20 border-white/10 rounded focus-visible:outline-offset-0 focus-visible:outline-none focus:text-orange-400 focus:ring-0 focus:ring-offset-0" />
                                         </td>
                                         <td className='py-3 px-4 text-sm text-zinc-300'>12383</td>
                                         <td className='py-3 px-4 text-sm text-zinc-300' >
