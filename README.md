@@ -2,7 +2,7 @@
 
 # preview
 
-<img src='./assets/preview.png'>
+<img src='../pass-in-web/src/assets/preview.png'>
 
 # Tech
 
