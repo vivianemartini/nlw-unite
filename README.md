@@ -2,7 +2,7 @@
 
 # preview
 
-<img src='../pass-in-web/src/assets/preview.png'>
+![preview.png](https://github.com/vivianemartini/nlw-unite/blob/main/src/assets/preview.png)
 
 # Tech
 
