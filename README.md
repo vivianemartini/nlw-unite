@@ -8,6 +8,9 @@ The tool allows the organizer to register an event and open a public registratio
 
 ![preview.png](https://github.com/vivianemartini/nlw-unite/blob/main/src/assets/preview.png)
 
+![passingif](https://github.com/vivianemartini/nlw-unite/assets/70038975/a149a579-8530-4caa-921c-e8ddce683b6a)
+
+
 # 🛠️ Tech 
 
 - Vite
